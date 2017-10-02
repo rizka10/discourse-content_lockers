@@ -1,0 +1,12 @@
+fi:
+  js:
+    modal:
+      please_wait: "Odota {{count}} sekuntia"
+      guest_locker:
+        title: "Miksi minun pitää kijautua?"
+        sign_up_email: "`Liity sähköpostilla"
+        sign_up: "Liity"
+        log_in: "Minulla on jo tunnus"
+        or: "tai"
+      social_locker:
+        title: "Seuraa meitä sosiaalisessa mediassa"
